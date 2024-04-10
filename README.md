@@ -30,7 +30,7 @@ At Maternal Inc, we believe in:
 ## Contact Us
 
 - **Phone:** 
-- **Email:** 
+- **Email:** [maternalInc@gmail](mailto:workingorderinc@gmail.com)
 - **Address:**
   
 We look forward to welcoming you and your child to Maternal Inc!
