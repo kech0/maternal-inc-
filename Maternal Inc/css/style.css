@@ -393,7 +393,7 @@ a:focus {
 }
 
 .slider_section .box a:hover {
-  background-color: #649713;
+  background-color: #F53BE8;
 }
 
 .slider_section .box .baby_detail {
@@ -585,6 +585,7 @@ a:focus {
 
 .about_section .box .detail-box p {
   margin: 0;
+  border-radius: 25%;
 }
 
 .about_section .box .detail-box a {
