@@ -2,7 +2,7 @@
 
 ## About Us
 
-Maternal Inc is a premier daycare center dedicated to providing exceptional care and early childhood education for children aged [age range]. Our mission is to create a nurturing and stimulating environment where children can learn, play, and grow.
+Maternal Inc is a premier daycare center dedicated to providing exceptional care and early childhood education for children aged 9 months - 4 years . Our mission is to create a nurturing and stimulating environment where children can learn, play, and grow.
 
 ## Services Offered
 
