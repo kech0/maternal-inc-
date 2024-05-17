@@ -27,11 +27,11 @@ At Maternal Inc, we believe in:
 2. **Enrollment Process:** Once you've decided to enroll your child, we'll guide you through the enrollment process and answer any questions you may have.
 3. **Stay Connected:** Follow us on social media and subscribe to our newsletter to stay updated on events, activities, and important announcements.
 
-## Contact Us
+## Contact Us 
 
 - **Phone:** - - to be added - - 
 - **Email:** [maternalInc@gmail](mailto:workingorderinc@gmail.com)
 - **Address:** - - to be updated - - 
   
-We look forward to welcoming you and your child to Maternal Inc!
+We look forward to welcoming you and your child to Maternal Inc
 
